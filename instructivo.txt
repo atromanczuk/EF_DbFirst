@@ -1,0 +1,30 @@
+SQL
+--crear tablas con IDENTITY en las PK
+--NO olvidar FK
+-- click derecho sobre tabla > Edit 200 para agregar por interfaz insert
+
+Visual Studio
+--Proyecto MVC CORE 5
+--Check de compilación Razor
+
+--Librerías
+--Click derecho sobre solución > agregar biblioteca de clases
+	--Data
+--Me paro en la principal>Dependencias>Agrego Data
+
+
+
+--Click derecho sobre solución > Administrar pck Nuget
+--Microsoft.EntityFramework.Core   si estoy en Net 5.0 uso la 5.0.17, doy check a todas mis capas
+--Microsoft.EntityFramework.Core.Tools solo data
+--Microsoft.EntityFramework.Core.Design
+--Microsoft.EntityFramework.Core.SqlServer 
+
+--Me paro en la librería Data y abro la terminal
+terminal (herramientas>Adm de pck Nuget>Consola del Adm de pck)
+--Tiro comando
+
+PM> Scaffold-DbContext -Connection "Server=NB-81\SQLEXPRESS;Database=db_first;Trusted_Connection=True;"Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF_DB_First
+
+
+Scaffold-DbContext "Server=.\sqlexpress;Database=db_first;Trusted_Connection=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir EF
