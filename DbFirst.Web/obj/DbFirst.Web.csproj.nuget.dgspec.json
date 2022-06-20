@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Web\\DbFirst.Web.csproj": {}
+    "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Web\\DbFirst.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Data\\DbFirst.Data.csproj": {
+    "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Data\\DbFirst.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Data\\DbFirst.Data.csproj",
+        "projectUniqueName": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Data\\DbFirst.Data.csproj",
         "projectName": "DbFirst.Data",
-        "projectPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Data\\DbFirst.Data.csproj",
+        "projectPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Data\\DbFirst.Data.csproj",
         "packagesPath": "C:\\Users\\NB-81\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Data\\obj\\",
+        "outputPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -82,14 +82,14 @@
         }
       }
     },
-    "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Web\\DbFirst.Web.csproj": {
+    "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Web\\DbFirst.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Web\\DbFirst.Web.csproj",
+        "projectUniqueName": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Web\\DbFirst.Web.csproj",
         "projectName": "DbFirst.Web",
-        "projectPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Web\\DbFirst.Web.csproj",
+        "projectPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Web\\DbFirst.Web.csproj",
         "packagesPath": "C:\\Users\\NB-81\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Web\\obj\\",
+        "outputPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
@@ -110,8 +110,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Data\\DbFirst.Data.csproj": {
-                "projectPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Data\\DbFirst.Data.csproj"
+              "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Data\\DbFirst.Data.csproj": {
+                "projectPath": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Data\\DbFirst.Data.csproj"
               }
             }
           }
