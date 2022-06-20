@@ -1,3 +1,6 @@
+using DbFirst.Data.EF;
+using DbFirst.Data.Repositorio;
+using DbFirst.Servicios.Servicios;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
@@ -23,7 +26,15 @@ namespace DbFirst.Web
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddTransient<db_firstContext>();
+            services.AddScoped<ITipoAnimalRepositorio, TipoAnimalRepositorio>();
+            services.AddScoped<ITipoAnimalServicio, TipoAnimalServicio>();
+            services.AddScoped<IAnimalRepositorio, AnimalRepositorio>();
+            services.AddScoped<IAnimalServicio, AnimalServicio>();
+
             services.AddControllersWithViews();
+
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

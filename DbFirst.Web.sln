@@ -5,7 +5,9 @@ VisualStudioVersion = 17.1.32328.378
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbFirst.Web", "DbFirst.Web\DbFirst.Web.csproj", "{3A323811-56A5-43DA-B46D-497292B129B7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirst.Data", "DbFirst.Data\DbFirst.Data.csproj", "{5A97BCE6-C7CE-4EC4-9A43-9FD195CB89E2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DbFirst.Data", "DbFirst.Data\DbFirst.Data.csproj", "{5A97BCE6-C7CE-4EC4-9A43-9FD195CB89E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbFirst.Servicios", "DbFirst.Servicios\DbFirst.Servicios.csproj", "{D105CC70-C121-4DB4-871D-FE62EDABACE7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5A97BCE6-C7CE-4EC4-9A43-9FD195CB89E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5A97BCE6-C7CE-4EC4-9A43-9FD195CB89E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5A97BCE6-C7CE-4EC4-9A43-9FD195CB89E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D105CC70-C121-4DB4-871D-FE62EDABACE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D105CC70-C121-4DB4-871D-FE62EDABACE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D105CC70-C121-4DB4-871D-FE62EDABACE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D105CC70-C121-4DB4-871D-FE62EDABACE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

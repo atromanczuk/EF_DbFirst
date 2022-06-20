@@ -1,0 +1,15 @@
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\bin\Debug\net5.0\DbFirst.Servicios.deps.json
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\bin\Debug\net5.0\DbFirst.Servicios.dll
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\bin\Debug\net5.0\DbFirst.Servicios.pdb
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\bin\Debug\net5.0\DbFirst.Data.dll
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\bin\Debug\net5.0\DbFirst.Data.pdb
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.csproj.AssemblyReference.cache
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.AssemblyInfoInputs.cache
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.AssemblyInfo.cs
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.csproj.CoreCompileInputs.cache
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.csproj.CopyComplete
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.dll
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\refint\DbFirst.Servicios.dll
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\DbFirst.Servicios.pdb
+C:\Users\NB-81\Desktop\PW3\EntityFramework\db_first\DbFirst\DbFirst.Servicios\obj\Debug\net5.0\ref\DbFirst.Servicios.dll

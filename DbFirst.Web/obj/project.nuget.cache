@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PgONnD38g37hbU/A7iLkg0ciqMncOQtI9s9qb5fDkHQMS+JpPySVLa7H7zJdE4En0F1egD1oR+hbdGoY41R8gw==",
+  "dgSpecHash": "/6c9Cn7HLg51a+t6eYQcCUL7kJtJmgK/eBTjqeJUkYEFOsnMQ2spqVanqOHeBYCYSrqa9FacqEt3ZtpZ2WbYjw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\NB-81\\Desktop\\PW3\\EF_DbFirst\\DbFirst.Web\\DbFirst.Web.csproj",
+  "projectFilePath": "C:\\Users\\NB-81\\Desktop\\PW3\\EntityFramework\\db_first\\DbFirst\\DbFirst.Web\\DbFirst.Web.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NB-81\\.nuget\\packages\\entityframework\\5.0.0\\entityframework.5.0.0.nupkg.sha512",
     "C:\\Users\\NB-81\\.nuget\\packages\\entityframework.de\\5.0.0\\entityframework.de.5.0.0.nupkg.sha512",

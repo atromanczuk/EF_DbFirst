@@ -34,6 +34,7 @@
       "DbFirst.Web/1.0.0": {
         "dependencies": {
           "DbFirst.Data": "1.0.0",
+          "DbFirst.Servicios": "1.0.0",
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": "5.0.17",
           "Microsoft.EntityFrameworkCore": "5.0.17",
           "Microsoft.EntityFrameworkCore.SqlServer": "5.0.17",
@@ -1530,6 +1531,17 @@
         },
         "compile": {
           "DbFirst.Data.dll": {}
+        }
+      },
+      "DbFirst.Servicios/1.0.0": {
+        "dependencies": {
+          "DbFirst.Data": "1.0.0"
+        },
+        "runtime": {
+          "DbFirst.Servicios.dll": {}
+        },
+        "compile": {
+          "DbFirst.Servicios.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/5.0.0.0": {
@@ -3997,6 +4009,11 @@
       "hashPath": "system.xml.xmlserializer.4.3.0.nupkg.sha512"
     },
     "DbFirst.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DbFirst.Servicios/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
